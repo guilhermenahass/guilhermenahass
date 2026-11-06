@@ -70,7 +70,7 @@ Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](ht
 | [Introduction to Subagents](https://verify.skilljar.com/c/z7cqb3r4vjmb) | [Claude Platform 101](https://verify.skilljar.com/c/39n9wdukq7za) | [AI Fluency: AI Capabilities & Limitations](https://verify.skilljar.com/c/kkynq8v3ya5e) |
 | [Introduction to Agent Skills](https://verify.skilljar.com/c/74rrqq5fbbz6) | [Claude 101](https://verify.skilljar.com/c/wpz4q8e3knxj) | |
 
-**Google Skills:** Introduction to Generative AI.
+**Google Skills** ([ver selos](https://www.skills.google/public_profiles/cd77a2b4-039d-4e09-b201-c66ddca89fb6)): Introduction to Generative AI · Introduction to Large Language Models · Introduction to Responsible AI
 
 ### Além do código
 
