@@ -1,6 +1,6 @@
 ## Olá, eu sou o Guilherme 👋
 
-Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](https://ggc0de.com)**, agência que cria sites, sistemas e automações para pequenos negócios. Pesquisador com bolsa **FAPESP**, com artigo aprovado e apresentado no **ENEGEP 2026**.
+Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](https://ggc0de.com)**, agência que cria sites, sistemas e automações para pequenos negócios. Iniciação científica em **Pesquisa Operacional** com bolsa **FAPESP**, com artigo aprovado e apresentado no **ENEGEP 2026**.
 
 Uso IA para construir produtos de ponta a ponta: do problema do cliente ao sistema no ar, com gente usando de verdade.
 
@@ -29,28 +29,34 @@ Uso IA para construir produtos de ponta a ponta: do problema do cliente ao siste
 - **Conteúdo com IA:** Higgsfield e Google Flow para imagem e vídeo.
 - **Organização:** Obsidian como segundo cérebro, ligado ao meu assistente.
 
-### Ferramentas
+### Ferramentas que uso no dia a dia
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+| Área | Ferramentas |
+|---|---|
+| **IA e agentes** | Claude Code (skills próprias, subagentes, MCP, hooks), Claude, ChatGPT, Gemini |
+| **Imagem e vídeo com IA** | Higgsfield, Google Flow |
+| **Automação** | n8n, webhooks, crons, Google Apps Script, Telegram Bot API |
+| **Desenvolvimento** | Cursor, VS Code, Git e GitHub, Playwright |
+| **Linguagens** | Python, C++, TypeScript, JavaScript, HTML, CSS, SQL, JSON |
+| **Web e dados** | Next.js, React, Supabase / Postgres, Redis, three.js, Chart.js |
+| **Deploy e infraestrutura** | Vercel, Hostinger, VPS Linux (Ubuntu), Docker, DNS e SSL |
+| **Integrações** | Mercado Pago, Resend, Google Agenda / Gmail / Drive, Cal.com, WhatsApp |
+| **SEO e GEO** | Google Search Console, Bing Webmaster Tools, Perfil da Empresa no Google, schema.org |
+| **Organização** | Obsidian (segundo cérebro ligado ao meu assistente) |
+| **Pesquisa Operacional** | Meta-heurísticas (SA, ILS, PSO, BRKGA), OpenMP |
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white)
 
 ### Além do código
