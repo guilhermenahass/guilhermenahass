@@ -1,6 +1,6 @@
 ## Olá, eu sou o Guilherme 👋
 
-Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](https://ggc0de.com)**, agência que cria sites, sistemas e automações para pequenos negócios. Iniciação científica em **Pesquisa Operacional** com bolsa **FAPESP**, com artigo aprovado e apresentado no **ENEGEP 2026**.
+Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](https://ggc0de.com)**, agência que cria sites, sistemas e automações para empresas e profissionais autônomos. Iniciação científica em **Pesquisa Operacional** com bolsa **FAPESP**, com artigo aprovado e apresentado no **ENEGEP 2026**.
 
 **Sou vibe coder:** construo produtos de ponta a ponta conversando com agentes de IA, do problema do cliente ao sistema no ar, com gente usando de verdade. Não é só prompt: tem spec, testes, revisão e deploy.
 
