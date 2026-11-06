@@ -7,7 +7,7 @@ Uso IA para construir produtos de ponta a ponta: do problema do cliente ao siste
 - 🎟️ Sistema de venda de ingressos que vendeu **cerca de 680 ingressos** sem taxa de plataforma
 - 📊 Sistema de gestão (vendas, contratos, financeiro) **em produção** numa VPS própria, com **6 automações n8n**
 - 🤖 Assistente pessoal com voz, memória e Telegram, orquestrado com **Claude Code**
-- 🌐 Sites no ar para escritório de advocacia, escola de música e consultório médico, com **SEO e GEO**
+- 🌐 6 sites no ar (advocacia, escola de música, médico, indústria, café especial), todos auditados com **SEO e GEO**
 - 📦 Otimização logística com meta-heurísticas em **C++**, testada em 700 instâncias de benchmark
 
 ### Projetos em destaque
