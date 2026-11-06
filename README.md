@@ -2,7 +2,7 @@
 
 Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](https://ggc0de.com)**, agência que cria sites, sistemas e automações para pequenos negócios. Iniciação científica em **Pesquisa Operacional** com bolsa **FAPESP**, com artigo aprovado e apresentado no **ENEGEP 2026**.
 
-Uso IA para construir produtos de ponta a ponta: do problema do cliente ao sistema no ar, com gente usando de verdade.
+**Sou vibe coder:** construo produtos de ponta a ponta conversando com agentes de IA, do problema do cliente ao sistema no ar, com gente usando de verdade. Não é só prompt: tem spec, testes, revisão e deploy.
 
 - 🎟️ Sistema de venda de ingressos que vendeu **cerca de 680 ingressos** sem taxa de plataforma
 - 📊 Sistema de gestão (vendas, contratos, financeiro) **em produção** numa VPS própria, com **6 automações n8n**
@@ -25,7 +25,7 @@ Uso IA para construir produtos de ponta a ponta: do problema do cliente ao siste
 
 - **Orquestração de agentes:** Claude Code com skills próprias, subagentes, MCP e hooks. Também uso ChatGPT e Gemini.
 - **Automação:** n8n integrado a CRM, e-mail, agenda e webhooks assinados.
-- **Vibe coding com método:** spec e plano antes do código, testes, revisão e deploy. Uso Claude Code, Cursor e VS Code.
+- **Vibe coding com método:** escrevo spec e plano antes do código, e o agente implementa com subagentes, testes e revisão até o deploy. Uso Claude Code, Cursor e VS Code.
 - **Conteúdo com IA:** Higgsfield e Google Flow para imagem e vídeo.
 - **Organização:** Obsidian como segundo cérebro, ligado ao meu assistente.
 
