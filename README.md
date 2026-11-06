@@ -14,7 +14,7 @@ Uso IA para construir produtos de ponta a ponta: do problema do cliente ao siste
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**pec-ingressos**](https://github.com/guilhermenahass/pec-ingressos) | Venda de ingressos com mapa de assentos, Pix e cartão, QR e check-in. Nenhum lugar vendido em dobro, nenhum pagamento sem ingresso | Next.js · Postgres · Mercado Pago · Vercel |
+| [**venda-de-ingressos**](https://github.com/guilhermenahass/venda-de-ingressos) | Venda de ingressos com mapa de assentos, Pix e cartão, QR e check-in. Nenhum lugar vendido em dobro, nenhum pagamento sem ingresso | Next.js · Postgres · Mercado Pago · Vercel |
 | [**ggcode-gestao**](https://github.com/guilhermenahass/ggcode-gestao) | Gestão para pequenas empresas: proposta com aceite online, contratos recorrentes, financeiro, reputação no Google e automações n8n | TypeScript · Supabase · Docker · n8n |
 | [**claudio-assistente**](https://github.com/guilhermenahass/claudio-assistente) | Agente pessoal com voz, memória em Obsidian, Telegram, rotinas e aprovação humana para ações sensíveis | Python · Claude Code · MCP · Whisper |
 | [**seo-geo-skill**](https://github.com/guilhermenahass/seo-geo-skill) | Skill para Claude Code que aplica SEO e GEO (aparecer no ChatGPT e no Gemini) em sites de negócios locais, com auditoria automática | Claude Code Skills · Python |
