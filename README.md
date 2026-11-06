@@ -59,6 +59,19 @@ Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](ht
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white)
 
+### Certificados
+
+**Anthropic Academy** (11 cursos, nov/2026, clique para verificar):
+
+| Agentes e Claude Code | Claude e API | Uso de IA |
+|---|---|---|
+| [Claude Code in Action](https://verify.skilljar.com/c/jwm3n79nu6eu) | [Building with the Claude API](https://verify.skilljar.com/c/ssdr627cnocz) | [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/5h4ykuqxkki2) |
+| [Claude Code 101](https://verify.skilljar.com/c/6wjdjke7ki2q) | [Introduction to Model Context Protocol](https://verify.skilljar.com/c/dqcgxymxpqz8) | [AI Fluency for Builders](https://verify.skilljar.com/c/a6agadqjf9v9) |
+| [Introduction to Subagents](https://verify.skilljar.com/c/z7cqb3r4vjmb) | [Claude Platform 101](https://verify.skilljar.com/c/39n9wdukq7za) | [AI Fluency: AI Capabilities & Limitations](https://verify.skilljar.com/c/kkynq8v3ya5e) |
+| [Introduction to Agent Skills](https://verify.skilljar.com/c/74rrqq5fbbz6) | [Claude 101](https://verify.skilljar.com/c/wpz4q8e3knxj) | |
+
+**Google Skills:** Introduction to Generative AI.
+
 ### Além do código
 
 Atendo meus clientes do começo ao fim: prospecção, reunião, proposta, venda, entrega e suporte. Tenho base de **marketing** e **Engenharia de Produção** (processos, logística, pesquisa operacional) e falo **inglês avançado**.
