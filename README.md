@@ -34,7 +34,7 @@ Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](ht
 | Área | Ferramentas |
 |---|---|
 | **IA e agentes** | Claude Code (skills próprias, subagentes, MCP, hooks), Claude, ChatGPT, Gemini |
-| **Imagem e vídeo com IA** | Higgsfield, Google Flow |
+| **Imagem, vídeo e motion com IA** | Higgsfield, Google Flow |
 | **Automação** | n8n, webhooks, crons, Google Apps Script, Telegram Bot API |
 | **Desenvolvimento** | Cursor, VS Code, Git e GitHub, Playwright |
 | **Linguagens** | Python, C++, TypeScript, JavaScript, HTML, CSS, SQL, JSON |
@@ -74,7 +74,7 @@ Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](ht
 
 ### Além do código
 
-Atendo meus clientes do começo ao fim: prospecção, reunião, proposta, venda, entrega e suporte. Tenho base de **marketing** e **Engenharia de Produção** (processos, logística, pesquisa operacional) e falo **inglês avançado**.
+Atendo meus clientes do começo ao fim: prospecção, reunião, negociação, venda, entrega e suporte. Produzo **vídeos e motion com IA** para clientes e redes sociais e trabalho com **marketing digital e tráfego pago**. Tenho base de **marketing** e **Engenharia de Produção** (processos, logística, pesquisa operacional) e falo **inglês avançado**.
 
 ### Contato
 
