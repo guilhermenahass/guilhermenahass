@@ -28,7 +28,7 @@ Uso a base de Engenharia de Produção em tudo que construo: entender o processo
 - **Pesquisa Operacional e otimização:** iniciação científica com bolsa FAPESP sobre o Block Relocation Problem, um problema de logística de pátios e armazéns. Modelagem, meta-heurísticas (SA, ILS, PSO, BRKGA) e análise de resultados em 700 instâncias.
 - **Gestão de estoque (UFSCar × WIKA):** análise e reformulação do sistema de estoque, com identificação de gargalos e melhorias de eficiência operacional.
 - **Qualidade (UFSCar × 3M):** plano de ação para reduzir defeitos numa linha de montagem de produtos eletrônicos.
-- **Processos na prática:** no sistema de ingressos, desenhei a operação inteira (abertura escalonada, reserva com tempo limite, portaria e contingência) para aguentar 491 vendas no primeiro dia. No sistema de gestão, mapeei o processo comercial (funil, proposta, contrato e cobrança) e automatizei as etapas repetitivas.
+- **Processos na prática:** no sistema de ingressos, desenhei a operação inteira (lotes de preço, reserva com tempo limite, portaria e lista de contingência) para aguentar 491 vendas no primeiro dia. No sistema de gestão, mapeei o processo comercial (funil, proposta, contrato e cobrança) e automatizei as etapas repetitivas.
 - **Ferramentas e métodos:** PCP, Lean, Six Sigma, logística, análise de dados e indicadores, Excel.
 
 ### Como eu trabalho com IA
