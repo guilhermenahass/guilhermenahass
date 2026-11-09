@@ -4,22 +4,32 @@ Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](ht
 
 **Sou vibe coder:** construo produtos de ponta a ponta conversando com agentes de IA, do problema do cliente ao sistema no ar, com gente usando de verdade. Não é só prompt: tem spec, testes, revisão e deploy.
 
+- 📦 **Pesquisa Operacional (FAPESP):** otimização logística com meta-heurísticas em **C++**, testada em 700 instâncias de benchmark e apresentada no **ENEGEP 2026**
 - 🎟️ Sistema de venda de ingressos que vendeu **cerca de 680 ingressos** e deixou **~R$ 10 mil a mais** na conta do cliente, sem taxa de plataforma
-- 📊 Sistema de gestão (vendas, contratos, financeiro) **em produção** numa VPS própria, com **6 automações n8n**
+- 📊 Sistema de gestão (vendas, contratos, financeiro) **em produção** numa VPS própria, com automações n8n que poupam **~10 horas por semana**
 - 🤖 Assistente pessoal com voz, memória e Telegram, orquestrado com **Claude Code**
 - 🌐 6 sites no ar (advocacia, escola de música, médico, indústria, café especial), todos auditados com **SEO e GEO**
-- 📦 Otimização logística com meta-heurísticas em **C++**, testada em 700 instâncias de benchmark
 
 ### Projetos em destaque
 
 | Projeto | O que é | Stack |
 |---|---|---|
+| [**brp-random-key-optimizer**](https://github.com/guilhermenahass/brp-random-key-optimizer) | **Iniciação científica (FAPESP):** otimização do desempilhamento em pátios logísticos com meta-heurísticas. Artigo apresentado no ENEGEP 2026 | C++ · OpenMP · Python |
 | [**venda-de-ingressos**](https://github.com/guilhermenahass/venda-de-ingressos) | Venda de ingressos com mapa de assentos, Pix e cartão, QR e check-in. Nenhum lugar vendido em dobro, nenhum pagamento sem ingresso | Next.js · Postgres · Mercado Pago · Vercel |
 | [**ggcode-gestao**](https://github.com/guilhermenahass/ggcode-gestao) | Gestão para pequenas empresas: proposta com aceite online, contratos recorrentes, financeiro, reputação no Google e automações n8n | TypeScript · Supabase · Docker · n8n |
 | [**claudio-assistente**](https://github.com/guilhermenahass/claudio-assistente) | Agente pessoal com voz, memória em Obsidian, Telegram, rotinas e aprovação humana para ações sensíveis | Python · Claude Code · MCP · Whisper |
-| [**seo-geo-skill**](https://github.com/guilhermenahass/seo-geo-skill) | Skill para Claude Code que aplica SEO e GEO (aparecer no ChatGPT e no Gemini) em sites de negócios locais, com auditoria automática | Claude Code Skills · Python |
 | [**ggcode-sites**](https://github.com/guilhermenahass/ggcode-sites) | Portfólio de sites no ar para clientes da GG Code | HTML · CSS · JS · three.js |
-| [**brp-random-key-optimizer**](https://github.com/guilhermenahass/brp-random-key-optimizer) | Iniciação científica: decoder de chaves aleatórias para o Block Relocation Problem (ENEGEP 2026) | C++ · OpenMP · Python |
+| [**seo-geo-skill**](https://github.com/guilhermenahass/seo-geo-skill) | Skill para Claude Code que aplica SEO e GEO (aparecer no ChatGPT e no Gemini) em sites de negócios locais, com auditoria automática | Claude Code Skills · Python |
+
+### Engenharia de Produção
+
+Uso a base de Engenharia de Produção em tudo que construo: entender o processo, achar o gargalo, medir e melhorar.
+
+- **Pesquisa Operacional e otimização:** iniciação científica com bolsa FAPESP sobre o Block Relocation Problem, um problema de logística de pátios e armazéns. Modelagem, meta-heurísticas (SA, ILS, PSO, BRKGA) e análise de resultados em 700 instâncias.
+- **Gestão de estoque (UFSCar × WIKA):** análise e reformulação do sistema de estoque, com identificação de gargalos e melhorias de eficiência operacional.
+- **Qualidade (UFSCar × 3M):** plano de ação para reduzir defeitos numa linha de montagem de produtos eletrônicos.
+- **Processos na prática:** no sistema de ingressos, desenhei a operação inteira (abertura escalonada, reserva com tempo limite, portaria e contingência) para aguentar 491 vendas no primeiro dia. No sistema de gestão, mapeei o processo comercial (funil, proposta, contrato e cobrança) e automatizei as etapas repetitivas.
+- **Ferramentas e métodos:** PCP, Lean, Six Sigma, logística, análise de dados e indicadores, Excel.
 
 ### Como eu trabalho com IA
 
@@ -43,7 +53,7 @@ Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](ht
 | **Integrações** | Mercado Pago, Resend, Google Agenda / Gmail / Drive, Cal.com, WhatsApp |
 | **SEO e GEO** | Google Search Console, Bing Webmaster Tools, Perfil da Empresa no Google, schema.org |
 | **Organização** | Obsidian (segundo cérebro ligado ao meu assistente) |
-| **Pesquisa Operacional** | Meta-heurísticas (SA, ILS, PSO, BRKGA), OpenMP |
+| **Engenharia de Produção** | Pesquisa operacional, meta-heurísticas, PCP, Lean, Six Sigma, logística, gestão de estoque, qualidade |
 
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white)
