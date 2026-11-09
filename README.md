@@ -4,7 +4,7 @@ Estudante de **Engenharia de Produção na UFSCar** e **fundador da [GG Code](ht
 
 **Sou vibe coder:** construo produtos de ponta a ponta conversando com agentes de IA, do problema do cliente ao sistema no ar, com gente usando de verdade. Não é só prompt: tem spec, testes, revisão e deploy.
 
-- 🎟️ Sistema de venda de ingressos que vendeu **cerca de 680 ingressos** sem taxa de plataforma
+- 🎟️ Sistema de venda de ingressos que vendeu **cerca de 680 ingressos** e deixou **~R$ 10 mil a mais** na conta do cliente, sem taxa de plataforma
 - 📊 Sistema de gestão (vendas, contratos, financeiro) **em produção** numa VPS própria, com **6 automações n8n**
 - 🤖 Assistente pessoal com voz, memória e Telegram, orquestrado com **Claude Code**
 - 🌐 6 sites no ar (advocacia, escola de música, médico, indústria, café especial), todos auditados com **SEO e GEO**
