@@ -35,7 +35,7 @@ Uso a base de Engenharia de Produção em tudo que construo: entender o processo
 
 - **Orquestração de agentes:** Claude Code com skills próprias, subagentes, MCP e hooks. Também uso ChatGPT e Gemini.
 - **Automação:** n8n integrado a CRM, e-mail, agenda e webhooks assinados.
-- **Vibe coding com método:** escrevo spec e plano antes do código, e o agente implementa com subagentes, testes e revisão até o deploy. Uso Claude Code, Cursor e VS Code.
+- **Vibe coding com método:** escrevo spec e plano antes do código, e o agente implementa com subagentes, testes e revisão até o deploy. Os repositórios públicos rodam testes automáticos no GitHub Actions a cada commit. Uso Claude Code, Cursor e VS Code.
 - **Conteúdo com IA:** Higgsfield e Google Flow para imagem e vídeo.
 - **Organização:** Obsidian como segundo cérebro, ligado ao meu assistente.
 
@@ -46,7 +46,7 @@ Uso a base de Engenharia de Produção em tudo que construo: entender o processo
 | **IA e agentes** | Claude Code (skills próprias, subagentes, MCP, hooks), Claude, ChatGPT, Gemini |
 | **Imagem, vídeo e motion com IA** | Higgsfield, Google Flow |
 | **Automação** | n8n, webhooks, crons, Google Apps Script, Telegram Bot API |
-| **Desenvolvimento** | Cursor, VS Code, Git e GitHub, Playwright |
+| **Desenvolvimento** | Cursor, VS Code, Git e GitHub, GitHub Actions (CI), Playwright |
 | **Linguagens** | Python, C++, TypeScript, JavaScript, HTML, CSS, SQL, JSON |
 | **Web e dados** | Next.js, React, Supabase / Postgres, Redis, three.js, Chart.js |
 | **Deploy e infraestrutura** | Vercel, Hostinger, VPS Linux (Ubuntu), Docker, DNS e SSL |
