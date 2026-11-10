@@ -71,6 +71,8 @@ Uso a base de Engenharia de Produção em tudo que construo: entender o processo
 
 ### Certificados
 
+**Engenharia de Produção:** White Belt Lean Seis Sigma e Lean Manufacturing Basic (Frons Educação, 2026) · Apresentação e publicação de trabalho no ENEGEP 2026 (ABEPRO, 36h)
+
 **Anthropic Academy** (11 cursos, nov/2026, clique para verificar):
 
 | Agentes e Claude Code | Claude e API | Uso de IA |
